@@ -13,7 +13,8 @@ VS code setup for playwright
 9.	You can see that files are creating and the project will initialize 
 10.	In the explorer you can see what files there are 
  
- 
+ <img width="191" height="302" alt="image" src="https://github.com/user-attachments/assets/9aba27ce-bb91-4791-85e1-3a6cd969832a" />
+
 
 11.	The first is playwright.yml. There yo ucan find branches some timout , ets 
 12.	There is some example.spec.ts example fle, that we can play 
@@ -24,8 +25,10 @@ VS code setup for playwright
 Run test example 
 
 You can run it just clickin hereor just right click and Run
- 
+ <img width="436" height="208" alt="image" src="https://github.com/user-attachments/assets/2cfd26c1-2f21-42c3-8490-dbfd74c10f94" />
+
 When you run test example you can check the Tets reults section for the status.
- 
+ <img width="277" height="52" alt="image" src="https://github.com/user-attachments/assets/2b954e1b-5a7d-49c7-8dd0-9bee58d58ec9" />
+
 Also, you can do Debug test and see the GUI demonstration run.
  
